@@ -10,7 +10,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
+ 
 - [Installation](#installation)
 - [Tools](#tools)
 - [Supported Image Types](#supported-image-types)
@@ -54,7 +54,7 @@ API documentation can be found in the main [jimp package](./packages/jimp)
 - [cover](./packages/plugin-cover) - Scale the image so the given width and height keeping the aspect ratio.
 - [displace](./packages/plugin-displace) - Displaces the image based on a displacement map
 - [dither](./packages/plugin-dither) - Apply a dither effect to an image.
-- [flip](./packages/plugin-flip) - Flip an image along it's x or y axis.
+- [flip](./packages/plugin-flip) - Flip an image along its x or y axis.
 - [gaussian](./packages/plugin-gaussian) - Hardcore blur.
 - [invert](./packages/plugin-invert) - Invert an images colors
 - [mask](./packages/plugin-mask) - Mask one image with another.
